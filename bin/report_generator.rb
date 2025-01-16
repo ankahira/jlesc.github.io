@@ -82,8 +82,8 @@ For the full list refer to the +Gemfile.lock+ file on commit SHA +9afcb40fbda60c
 =end
 
 require 'bundler/setup'
-Bundler.require(:default)
 require 'jekyll'
+Bundler.require(:default)
 require 'bibtex'
 
 BIBLIOGRAPHY_MATCHER = /{%\sbibliography\s.*--file\s(?<bibfile>[\w\/]*)\.bib\s%}/
@@ -203,10 +203,10 @@ module Jekyll
           output += "\n"
           # Note: reorder the status keywords here to enforce a different ordering in the report
           # exclude reports from the final document HERE
-          %w(running starting suspended closing finished).each do |status|
+          %w(running starting).each do |status|
             topic_hash[:projects].each do |project|
               collections['projects'].docs.each do |project_doc|
-                if project_doc.data['updated'].year >= Date.today.year - 5
+                if project_doc.data['updated'].year >= Date.today.year - 1
                   if project_doc.data['status'] == status and project_doc.data['slug'] == project
                     output += "\\input{projects/#{project}}\n"
                   end
@@ -518,8 +518,8 @@ module Jekyll
       end
 
       # copy the JLESC logo to the LaTeX directory
-      FileUtils.cp(File.join(@site.source, '_assets', 'images', 'jlesc-header_180910.jpg'),
-                   File.join(@latex_path, 'jlesc_logo.png'))
+      FileUtils.cp(File.join(@site.source, 'assets', 'images', 'jlesc_logo_hires.jpg'),
+                   File.join(@latex_path, 'jlesc_logo_hires.jpg'))
 
     end
   end

@@ -64,6 +64,16 @@
 #
 #
 
+
+aach_m:
+  sur_name: Aach
+  given_name: Marcel
+  affiliation: jsc
+  position:
+  topics:
+  email: m.aach@fz-juelich.de
+  homepage:
+
 acosta_j:
   sur_name: Acosta
   given_name: Juan
@@ -80,6 +90,15 @@ acosta_m:
   position:
   topics:
   email: mario.acosta@bsc.es
+  homepage:
+
+adhi_b:
+  sur_name: Adhi
+  given_name: Boma
+  affiliation: riken
+  position:
+  topics:
+  email:
   homepage:
 
 agullo_e:
@@ -118,6 +137,15 @@ alvarez_c:
   email: calvarez@ac.upc.edu
   homepage:
 
+alvarez_d:
+  sur_name: Alvarez
+  given_name: David
+  affiliation: bsc
+  position: phd
+  topics: 
+  email: david.alvarez@bsc.es
+  homepage:
+
 amer_a:
   sur_name: Amer
   given_name: Abdelhalim
@@ -145,6 +173,15 @@ anzt_h:
   email: hanzt@icl.utk.edu
   homepage: https://hartwiganzt.github.io/
 
+applencourt_t:
+  sur_name: Applencourt
+  given_name: Thomas
+  affiliation: anl
+  position:
+  topics:
+  email: tapplencourt@anl.gov
+  homepage:
+
 artigues_a:
   sur_name: Artigues
   given_name: Antoni
@@ -160,6 +197,14 @@ attig_n:
   position: permanent
   email: n.attig@fz-juelich.de
   homepage: http://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/attig_n.html
+
+aumage_o:
+  sur_name: Aumage
+  given_name: Olivier
+  affiliation: inria
+  position: permanent
+  email: olivier.aumage@inria.fr
+  homepage:
 
 aupy_g:
   sur_name: Pallez
@@ -251,6 +296,15 @@ bautista_gomez_l:
   email: leonardo.bautista@bsc.es
   homepage: leobago.com
 
+baumann_t:
+  sur_name: Baumann
+  given_name: Thomas
+  affiliation: jsc
+  position: phd
+  topics: numerical methods, time integration, resilience
+  email: t.baumann@fz-juelich.de
+  homepage:
+
 baumeister_p:
   sur_name: Baumeister
   given_name: Paul
@@ -303,6 +357,15 @@ bleuse_r:
   position: phd
   topics:
   email: raphael.bleuse@imag.fr
+  homepage:
+
+bode_m:
+  sur_name: Bode
+  given_name: Mathis
+  affiliation: jsc
+  position:
+  topics:
+  email: m.bode@fz-juelich.de
   homepage:
 
 boito_f:
@@ -413,6 +476,15 @@ calhoun_j:
   email: jonccal@clmeson.edu
   homepage: http://jonccal.people.clemson.edu/
 
+calmet_h:
+  sur_name: Calmet
+  given_name: Hadrien
+  affiliation: bsc
+  position: permanent
+  topics:
+  email: hadrien.calmet@bsc.es
+  homepage:
+
 cappello_f:
   sur_name: Cappello
   given_name: Franck
@@ -457,6 +529,15 @@ cavelan_a:
   topics: Resilience
   email: aurelien.cavelan@inria.fr
   homepage: http://perso.ens-lyon.fr/aurelien.cavelan/
+
+caviedes-voullieme_d:
+  sur_name: Daniel
+  given_name: Caviedes-Voullième
+  affiliation: jsc
+  position: 
+  topics:
+  email: 
+  homepage: 
 
 cela_j:
   sur_name: Cela Espin
@@ -710,6 +791,15 @@ doblas_reyes_f:
   email: francisco.doblas-reyes@bsc.es
   homepage: https://www.bsc.es/about-bsc/staff-directory/doblas-reyes-francisco-j
 
+domke_j:
+  sur_name: Domke
+  given_name: Jens
+  affiliation: riken
+  position: permanent
+  topics: Benchmarking
+  email: jens.domke@riken.jp
+  homepage: https://domke.gitlab.io/
+
 dongarra_j:
   sur_name: Dongarra
   given_name: Jack
@@ -771,6 +861,15 @@ echevarria_p:
   email: pablo.echevarria@bsc.es
   homepage:
 
+egele_r:
+  sur_name: Egele
+  given_name: Romain
+  affiliation: anl
+  position:
+  topics:
+  email: romain.egele@universite-paris-saclay.fr
+  homepage:
+
 ejarque_j:
   sur_name: Ejarque
   given_name: Jorge
@@ -798,6 +897,15 @@ feld_c:
   email: c.feld@fz-juelich.de
   homepage: http://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/feld_c.html
 
+ferrier_n:
+  sur_name: Ferrier
+  given_name: Nicola
+  affiliation: anl
+  position:
+  topics:
+  email: nferrier@anl.gov
+  homepage:
+
 finkel_h:
   sur_name: Finkel
   given_name: Hal
@@ -806,6 +914,15 @@ finkel_h:
   topics:
   email: hfinkel@anl.gov
   homepage: https://www.alcf.anl.gov/staff-directory/hal-finkel
+
+fischer_p:
+  sur_name: Fischer
+  given_name: Paul
+  affiliation: uiuc
+  position:
+  topics:
+  email: fischerp@illinois.edu
+  homepage: 
 
 freitas_h:
   sur_name: Freitas
@@ -824,6 +941,15 @@ frings_w:
   topics: I/O, benchmarking, HPC
   email: w.frings@fz-juelich.de
   homepage: http://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/frings_w.html
+
+fritz_j:
+  sur_name: Fritz
+  given_name: Jakob
+  affiliation: jsc
+  position: 
+  topics: CI, benchmarking, RSE
+  email: j.fritz@fz-juelich.de
+  homepage: https://www.fz-juelich.de/profile/fritz_j
 
 fujita_k:
   sur_name: Fujita
@@ -1165,6 +1291,24 @@ imamura_t:
   email: imamura.toshiyuki@riken.jp
   homepage: http://www.aics.riken.jp/labs/lpnctrt/en/
 
+insley_j:
+  sur_name: Insley
+  given_name: Joseph A.
+  affiliation: anl
+  position:
+  topics:
+  email: insley@anl.gov
+  homepage:
+
+iserte_s:
+  sur_name: Iserte
+  given_name: Sergio
+  affiliation: bsc
+  position: post_doc
+  topics:
+  email: sergio.iserte@bsc.es
+  homepage: https://siserte.github.io
+
 ishikawa_y:
   sur_name: Ishikawa
   given_name: Yukata
@@ -1237,6 +1381,15 @@ jin_z:
   email: zjin@anl.gov
   homepage: https://www.alcf.anl.gov/staff-directory/zheming-jin
 
+jolivel_t:
+  sur_name: Jolivel
+  given_name: Théo
+  affiliation: inria
+  position: phd
+  topics:
+  email: theo.jolivel@inria.fr
+  homepage:
+
 jung_j:
   sur_name: Jung
   given_name: Jaewoon
@@ -1245,6 +1398,15 @@ jung_j:
   topics: Molecular Dynamics
   email: jung@riken.jp
   homepage: http://www.riken.jp/TMS2012/cbp/en/member/profile/jaewoon_jung.html
+
+junya_o:
+  sur_name: Junya
+  given_name: Onishi
+  affiliation: riken
+  position: 
+  topics: 
+  email: junya.onishi@riken.jp
+  homepage: http://labs.aics.riken.jp/tsubokura.html
 
 herault_t:
   sur_name: Herault
@@ -1263,6 +1425,15 @@ kabadshow_i:
   position: permanent
   email: i.kabadshow@fz-juelich.de
   homepage: http://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/kabadshow_i.html
+
+kahira_a:
+  sur_name: Kahira
+  given_name: Albert Njoroge
+  affiliation: jsc
+  topics: 
+  position: post_doc
+  email: a.kahira@fz-juelich.de
+  homepage: 
 
 kajikawa_y:
   sur_name: Kajikawa
@@ -1299,6 +1470,15 @@ katz_d:
   topics: 
   email: dskatz@illinois.edu
   homepage: http://danielskatz.org/
+
+kazuto_a:
+  sur_name: Kazuto
+  given_name: Ando
+  affiliation: riken
+  position: 
+  topics: 
+  email: kazuto.ando@riken.jp
+  homepage: http://labs.aics.riken.jp/tsubokura.html
 
 keahey_k:
   sur_name: Keahey
@@ -1417,6 +1597,15 @@ lama_v:
   email: vlama@vols.utk.edu
   homepage:
 
+lan_y:
+  sur_name: Lan
+  given_name: Yu-Hsiang
+  affiliation: uiuc
+  position: phd
+  topics:
+  email: lan14@illinois.edu
+  homepage:
+
 lanteri_s:
   sur_name: Lanteri
   given_name: Stéphane
@@ -1480,6 +1669,15 @@ lehmkuhl_o:
   email: oriol.lehmkuhl@bsc.es
   homepage: https://www.bsc.es/lehmkuhl-oriol
 
+lindquist_n:
+  sur_name: Lindquist
+  given_name: Neil
+  affiliation: utk
+  position:
+  topics:
+  email: nlindqu1@vols.utk.edu
+  homepage:
+
 lintermann_a:
   sur_name: Lintermann
   given_name: Andreas
@@ -1497,6 +1695,15 @@ lippert_t:
   topics:
   email: th.lippert@fz-juelich.de
   homepage: http://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/lippert_th.html
+
+liu_x:
+  sur_name: Liu
+  given_name: Xin
+  affiliation: jsc
+  position:
+  topics:
+  email: xi.liu@fz-juelich.de
+  homepage:
 
 llort_g:
   sur_name: Llort
@@ -1561,6 +1768,15 @@ luettgau_j:
   email: jluettga@utk.edu
   homepage:
 
+luszczek_p:
+  sur_name: Luszczek
+  given_name: Piotr
+  affiliation: utk
+  position: permanent
+  topics: Numerical methods
+  email: luszczek@icl.utk.edu
+  homepage: https://scholar.google.com/citations?user=a9df4xQAAAAJ&hl=en
+
 martorell_x:
   sur_name: Martorell
   given_name: Xavier
@@ -1595,6 +1811,24 @@ maruyama_y:
   position:
   topics:
   email: yutaka.maruyama.ur@riken.jp
+  homepage:
+
+miyashita_o:
+  sur_name: Miyashita
+  given_name: Osamu
+  affiliation: riken
+  position: permanent
+  topics:
+  email: osamu.miyashita@riken.jp
+  homepage: http://www2.riken.jp/TMS2012/cbp/en/member/profile/osamu_miyashita.html
+
+mateevitsi_v:
+  sur_name: Mateevitsi
+  given_name: Victor A.
+  affiliation: anl
+  position:
+  topics:
+  email: vmateevitsi@anl.gov
   homepage:
 
 mateo_s:
@@ -1696,6 +1930,15 @@ mikami_k:
   email: kazunori.mikami@riken.jp
   homepage:
 
+miguel_j:
+  sur_name: Miguel de Haro
+  given_name: Juan
+  affiliation: bsc
+  position:
+  topics:
+  email: juan.deharoruiz@bsc.es
+  homepage:
+
 miyoshi_t:
   sur_name: Miyoshi
   given_name: Takemasa
@@ -1713,6 +1956,24 @@ mohr_b:
   topics: HPC, Performance Tools
   email: b.mohr@fz-juelich.de
   homepage: http://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/mohr_b.html
+
+monniot_j:
+  sur_name: Monniot
+  given_name: Julien
+  affiliation: inria
+  position: phd
+  topics:
+  email: julien.monniot@inria.fr
+  homepage: 
+
+morales-hernandez_m:
+  sur_name: Morales-Hernández
+  given_name: Mario
+  affiliation: external
+  position: 
+  topics:
+  email: 
+  homepage: 
 
 moreno-chamarro_e:
   sur_name: Moreno-Chamarro
@@ -1757,6 +2018,15 @@ murai_h:
   topics: Programming Models and Tools
   email: h-murai@riken.jp
   homepage:
+
+muralikrishnan_s:
+  sur_name: Muralikrishnan
+  given_name: Sriramkrishnan
+  affiliation: jsc
+  position: post_doc
+  topics: Numerical methods
+  email: s.muralikrishnan@fz-juelich.de
+  homepage: https://www.fz-juelich.de/profile/muralikrishnan_s
 
 nakajima_t:
   sur_name: Nakajima
@@ -1948,6 +2218,15 @@ padoin_e:
   email:  elpadoin@inf.ufrgs.br
   homepage:
 
+papka_m:
+  sur_name: Papka
+  given_name: Michael E.
+  affiliation: anl
+  position: permanent
+  topics:
+  email: papka@anl.gov
+  homepage: https://www.anl.gov/profile/michael-e-papka
+
 patel_r:
   sur_name: Patel
   given_name: Ria
@@ -2101,6 +2380,15 @@ prabhu_t:
   email: tprabhu2@illinois.edu
   homepage: http://web.engr.illinois.edu/~tprabhu2/
 
+puri_r:
+  sur_name: Puri
+  given_name: Rishabh
+  affiliation: external
+  position: phd
+  topics: 
+  email: r.puri@fz-juelich.de
+  homepage:
+
 raffin_b:
   sur_name: Raffin
   given_name: Bruno
@@ -2198,6 +2486,15 @@ riteau_p:
   position:
   topics:
   email: priteau@uchicago.edu
+  homepage:
+
+rizzi_s:
+  sur_name: Rizzi
+  given_name: Silvio
+  affiliation: anl
+  position:
+  topics:
+  email: srizzi@alcf.anl.gov
   homepage:
 
 roachell_b:
@@ -2407,6 +2704,15 @@ schoebel_r:
   email: r.schoebel@fz-juelich.de
   homepage:
 
+segovia_j:
+  sur_name: Segovia
+  given_name: José
+  affiliation: external
+  position: 
+  topics:
+  email: 
+  homepage: 
+
 seidel_ed:
   sur_name: Seidel
   given_name: Ed
@@ -2451,6 +2757,15 @@ sharples_w:
   topics:
   email: w.sharples@fz-juelich.de
   homepage: https://www.fz-juelich.de/SharedDocs/Personen/IAS/JSC/EN/staff/sharples_w.html
+
+sharma_r:
+  sur_name: Sharma
+  given_name: Rakesh
+  affiliation: jsc
+  position: post_doc
+  topics:
+  email: r.sarma@fz-juelich.de
+  homepage: 
 
 shimazaki_t:
   sur_name: Shimazaki
@@ -2650,6 +2965,15 @@ takizawa_s:
   email: shinichiro.takizawa@riken.jp
   homepage:
 
+tama_f:
+  sur_name: Tama
+  given_name: Florence
+  affiliation: riken
+  position: permanent
+  topics: biology
+  email: florence.tama@nagoya-u.jp
+  homepage: https://www.riken.jp/en/research/labs/r-ccs/comput_struct_biol/index.html
+
 tan_n:
   sur_name: Tan
   given_name: Nigel
@@ -2667,6 +2991,15 @@ tanaka_m:
   topics:
   email: mihoko.tanaka@riken.jp
   homepage:
+
+taufer_m:
+  sur_name: Taufer
+  given_name: Michela
+  affiliation: utk
+  position: permanent
+  topics:
+  email: mtaufer@utk.edu
+  homepage: https://www.eecs.utk.edu/people/faculty/dr-michela-taufer
 
 taylor_v:
   sur_name: Taylor
@@ -2707,10 +3040,10 @@ teruel_x:
 tessier_f:
   sur_name: Tessier
   given_name: Francois
-  affiliation: anl
-  position: post_doc
+  affiliation: inria
+  position: permanent
   topics:
-  email: ftessier@anl.gov
+  email: francois.tessier@inria.fr
   homepage: http://www.francoistessier.info/
 
 trystram_d:
@@ -2721,6 +3054,24 @@ trystram_d:
   topics:
   email: trystram@imag.fr
   homepage: http://moais.imag.fr/membres/denis.trystram/
+
+tsai_s:
+  sur_name: Tsai
+  given_name: Shin-Rong
+  affiliation: uiuc 
+  position: phd
+  topics: In-situ visualization
+  email: srtsai@illinois.edu 
+  homepage: https://ischool.illinois.edu/people/shin-rong-tsai 
+
+tsai_yh:
+  sur_name: Tsai
+  given_name: Yu-Hsiang
+  affiliation: external
+  position: 
+  topics:
+  email: yu-hsiang.tsai@kit.edu
+  homepage: 
 
 tsubokura_m:
   sur_name: Tsubokura
@@ -2830,6 +3181,15 @@ valero_m:
   email: mateo.valero@bsc.es
   homepage: https://www.bsc.es/cv-mateo/1-summary
 
+valles_p:
+  sur_name: Vallés
+  given_name: Pablo
+  affiliation: external
+  position: 
+  topics:
+  email: 
+  homepage: 
+
 vazquez_m:
   sur_name: Vázquez
   given_name: Mariano
@@ -2920,6 +3280,15 @@ wilson_j:
   email: wilsja@illinois.edu
   homepage:
 
+windgassen_j:
+  sur_name: Windgassen
+  given_name: Jonathan
+  affiliation: jsc
+  position:
+  topics:
+  email: j.windgassen@fz-juelich.de
+  homepage:
+
 winkelmann_j:
   sur_name: Winkelmann
   given_name: Jan
@@ -2937,6 +3306,15 @@ wozniak_j:
   topics: Workflows, Big Data, I/O
   email:  wozniak@mcs.anl.gov
   homepage: http://www.mcs.anl.gov/~wozniak/
+
+wyatt_m:
+  sur_name: Wyatt
+  given_name: Michael
+  affiliation: utk
+  position:
+  topics:
+  email: mwyatt@vols.utk.edu
+  homepage:
 
 wylie_b:
   sur_name: Wylie
@@ -3001,74 +3379,33 @@ zhou_a:
   email: amelie.czhou@gmail.com
   homepage: https://team.inria.fr/kerdata/amelie-chi-zhou/
 
-taufer_m:
-  sur_name: Taufer
-  given_name: Michela
-  affiliation: utk
-  position: permanent
+huber_d:
+  sur_name: Huber
+  given_name: Dominik
+  affiliation: inria
+  position: phd
   topics:
-  email: mtaufer@utk.edu
-  homepage: https://www.eecs.utk.edu/people/faculty/dr-michela-taufer/
-
-luszczek_p:
-  sur_name: Luszczek
-  given_name: Piotr
-  affiliation: utk
-  position: permanent
-  topics: Numerical methods
-  email: luszczek@icl.utk.edu
-  homepage: https://scholar.google.com/citations?user=a9df4xQAAAAJ&hl=en
-
-lindquist_n:
-  sur_name: Lindquist
-  given_name: Neil
-  affiliation: utk
-  position:
-  topics:
-  email: nlindqu1@vols.utk.edu
+  email: domi.huber@tum.de
   homepage:
 
-wyatt_m:
-  sur_name: Wyatt
-  given_name: Michael
-  affiliation: utk
-  position:
+schreiber_m:
+  sur_name: Schreiber
+  given_name: Martin
+  affiliation: inria
+  position: permanent
   topics:
-  email: mwyatt@vols.utk.edu
+  email:
   homepage:
 
-tama_f:
-  sur_name: Tama
-  given_name: Florence
-  affiliation: riken
-  position: permanent
-  topics: biology
-  email: florence.tama@nagoya-u.jp
-  homepage: https://www.riken.jp/en/research/labs/r-ccs/comput_struct_biol/index.html
-
-miyashita_o:
-  sur_name: Miyashita
-  given_name: Osamu
-  affiliation: riken
+dutot_p:
+  sur_name: Dutot
+  given_name: Pierre-François
+  affiliation: inria
   position: permanent
   topics:
-  email: osamu.miyashita@riken.jp
-  homepage: http://www2.riken.jp/TMS2012/cbp/en/member/profile/osamu_miyashita.html
+  email:
+  homepage:
   
-liu_x:
-  sur_name: Liu
-  given_name: Xin
-  affiliation: jsc
-  position:
-  topics:
-  email: xi.liu@fz-juelich.de
-  homepage:
 
-aach_m:
-  sur_name: Aach
-  given_name: Marcel
-  affiliation: jsc
-  position:
-  topics:
-  email: m.aach@fz-juelich.de
-  homepage:
+
+
